@@ -148,4 +148,17 @@ Please make sure your code follows the existing style and includes appropriate c
 - Icons and emojis for visual flair
 - Thanks to all open-source contributors who keep web gaming alive!
 
+##  Contact
+
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
 
