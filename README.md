@@ -7,7 +7,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A delightful and challenging grid-based arcade game where you control a hungry rabbit  collect crunchy carrots , and outsmart a sneaky fox !
+<img width="1834" height="921" alt="image" src="https://github.com/user-attachments/assets/99e0d126-3561-46a7-948e-f00e5f9bb276" />
 
+<img width="1885" height="959" alt="image" src="https://github.com/user-attachments/assets/027a945e-a463-411c-9cf6-2ae5c5a05be7" />
 
 
 ##  Table of Contents
