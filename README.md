@@ -29,7 +29,7 @@ A delightful and challenging grid-based arcade game where you control a hungry r
 
 The game combines nostalgia with modern web standards — no external libraries, no frameworks, just pure browser fun.
 
-## 🎮 How to Play
+##  How to Play
 
 1. **Start the game** – The rabbit and fox are placed on a grassy field with carrots scattered around.
 2. **Move your rabbit** – Use the **arrow keys** or **on-screen buttons** to hop up, down, left, or right.
@@ -148,9 +148,4 @@ Please make sure your code follows the existing style and includes appropriate c
 - Icons and emojis for visual flair
 - Thanks to all open-source contributors who keep web gaming alive!
 
-## 📬 Contact
-
-**Your Name** – [@yourtwitter](https://twitter.com/yourtwitter) – your.email@example.com
-
-Project Link: [https://github.com/yourusername/rabbit-game](https://github.com/yourusername/rabbit-game)
 
